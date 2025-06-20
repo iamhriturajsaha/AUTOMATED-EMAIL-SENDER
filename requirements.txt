@@ -1,0 +1,4 @@
+pandas
+openpyxl
+smtplib  # Comes with Python standard library, listed for completeness
+email    # Comes with Python standard library, listed for completeness
