@@ -1,4 +1,4 @@
-# 🤖 AUTOMATED EMAIL SENDER
+# 📧 AUTOMATED EMAIL SENDER
 
 A Python-based automated email sender that reads recipient data from an Excel file and sends personalized bulk emails using SMTP. Ideal for announcements, event invitations, or newsletters.
 
