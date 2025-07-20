@@ -1,6 +1,6 @@
-# 📧 AUTOMATED EMAIL SENDER
+# 📧 Automated Email Sender
 
-A Python-based automated email sender that reads recipient data from an Excel file and sends personalized bulk emails using SMTP. Ideal for announcements, event invitations, or newsletters.
+A Python-based automated email sender that reads recipient data from an Excel file and sends personalized bulk emails using SMTP. Ideal for announcements, event invitations or newsletters.
 
 ---
 
@@ -79,4 +79,3 @@ See `requirements.txt` or install manually -
 ```bash
 pip install pandas openpyxl
 ```
-
