@@ -65,13 +65,6 @@ python email_sender.py
 ```
 
 Check the `logs/` folder for the log of sent and failed emails.
-
----
-
-## ⚠️ Security Notice
-- Use an **App Password** instead of your actual Gmail password if using Gmail.
-- Never commit sensitive data like passwords to public repositories.
-
 ---
 
 ## 📦 Dependencies
@@ -79,3 +72,9 @@ See `requirements.txt` or install manually -
 ```bash
 pip install pandas openpyxl
 ```
+---
+
+## ⚠️ Security Notice
+
+- Use an **App Password** instead of your actual Gmail password if using Gmail.
+- Never commit sensitive data like passwords to public repositories.
