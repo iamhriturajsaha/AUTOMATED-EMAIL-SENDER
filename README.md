@@ -63,9 +63,6 @@ PASSWORD = 'hsghdhhd89nssbs'
 ```bash
 python email_sender.py
 ```
-
-Check the `logs/` folder for the log of sent and failed emails.
-
 ---
 
 ## 📦 Dependencies
